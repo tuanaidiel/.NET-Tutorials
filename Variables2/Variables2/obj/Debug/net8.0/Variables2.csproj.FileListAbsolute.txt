@@ -1,0 +1,28 @@
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\bin\Debug\net8.0\Variables2.exe
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\bin\Debug\net8.0\Variables2.deps.json
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\bin\Debug\net8.0\Variables2.runtimeconfig.json
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\bin\Debug\net8.0\Variables2.dll
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\bin\Debug\net8.0\Variables2.pdb
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\obj\Debug\net8.0\Variables2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\obj\Debug\net8.0\Variables2.AssemblyInfoInputs.cache
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\obj\Debug\net8.0\Variables2.AssemblyInfo.cs
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\obj\Debug\net8.0\Variables2.csproj.CoreCompileInputs.cache
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\obj\Debug\net8.0\Variables2.dll
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\obj\Debug\net8.0\refint\Variables2.dll
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\obj\Debug\net8.0\Variables2.pdb
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\obj\Debug\net8.0\Variables2.genruntimeconfig.cache
+C:\Users\tuana\Documents\IT\.NET\Variables2\Variables2\obj\Debug\net8.0\ref\Variables2.dll
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\bin\Debug\net8.0\Variables2.exe
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\bin\Debug\net8.0\Variables2.deps.json
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\bin\Debug\net8.0\Variables2.runtimeconfig.json
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\bin\Debug\net8.0\Variables2.dll
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\bin\Debug\net8.0\Variables2.pdb
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\obj\Debug\net8.0\Variables2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\obj\Debug\net8.0\Variables2.AssemblyInfoInputs.cache
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\obj\Debug\net8.0\Variables2.AssemblyInfo.cs
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\obj\Debug\net8.0\Variables2.csproj.CoreCompileInputs.cache
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\obj\Debug\net8.0\Variables2.dll
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\obj\Debug\net8.0\refint\Variables2.dll
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\obj\Debug\net8.0\Variables2.pdb
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\obj\Debug\net8.0\Variables2.genruntimeconfig.cache
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Variables2\Variables2\obj\Debug\net8.0\ref\Variables2.dll
