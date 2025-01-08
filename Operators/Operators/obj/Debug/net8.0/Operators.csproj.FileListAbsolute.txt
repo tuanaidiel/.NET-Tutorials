@@ -1,0 +1,15 @@
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\bin\Debug\net8.0\Operators.exe
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\bin\Debug\net8.0\Operators.deps.json
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\bin\Debug\net8.0\Operators.dll
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\bin\Debug\net8.0\Operators.pdb
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\obj\Debug\net8.0\Operators.sourcelink.json
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\obj\Debug\net8.0\Operators.dll
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\obj\Debug\net8.0\refint\Operators.dll
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\obj\Debug\net8.0\Operators.pdb
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+C:\Users\tuana\Documents\IT\.NET\.NET Tutorials\Operators\Operators\obj\Debug\net8.0\ref\Operators.dll
