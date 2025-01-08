@@ -1,0 +1,14 @@
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\bin\Debug\net8.0\TypeConversion2.exe
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\bin\Debug\net8.0\TypeConversion2.deps.json
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\bin\Debug\net8.0\TypeConversion2.runtimeconfig.json
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\bin\Debug\net8.0\TypeConversion2.dll
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\bin\Debug\net8.0\TypeConversion2.pdb
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\obj\Debug\net8.0\TypeConversion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\obj\Debug\net8.0\TypeConversion2.AssemblyInfoInputs.cache
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\obj\Debug\net8.0\TypeConversion2.AssemblyInfo.cs
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\obj\Debug\net8.0\TypeConversion2.csproj.CoreCompileInputs.cache
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\obj\Debug\net8.0\TypeConversion2.dll
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\obj\Debug\net8.0\refint\TypeConversion2.dll
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\obj\Debug\net8.0\TypeConversion2.pdb
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\obj\Debug\net8.0\TypeConversion2.genruntimeconfig.cache
+C:\Users\tuana\Documents\IT\.NET\TypeConversion2\TypeConversion2\obj\Debug\net8.0\ref\TypeConversion2.dll

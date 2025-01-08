@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TypeConversion2/1.0.0": {
+        "runtime": {
+          "TypeConversion2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TypeConversion2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
