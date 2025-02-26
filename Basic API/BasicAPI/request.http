@@ -1,0 +1,41 @@
+GET http://localhost:5254
+
+###
+
+GET http://localhost:5254/downloads
+
+###
+
+PUT http://localhost:5254
+
+###
+
+DELETE  http://localhost:5254
+
+###
+
+POST http://localhost:5254
+
+###
+
+GET http://localhost:5254/users/10/posts/buffalo
+
+###
+
+GET http://localhost:5254/products/5
+
+###
+
+GET http://localhost:5254/report/
+
+###
+
+GET http://localhost:5254/files/images/cats/cat_1.jpg
+
+###
+
+GET http://localhost:5254/search?q=dotnet&page=2
+
+###
+
+GET http://localhost:5254/store/electronics
